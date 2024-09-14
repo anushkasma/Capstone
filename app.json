@@ -1,4 +1,7 @@
 {
   "name": "CapstoneII",
-  "displayName": "CapstoneII"
+  "displayName": "CapstoneII",
+  "plugins": [
+    "expo-font"
+  ]
 }
